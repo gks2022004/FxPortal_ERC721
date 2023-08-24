@@ -1,0 +1,14 @@
+{
+    "name": "cold drink of 1960s",
+    "description": "1960s creative sign board of a cold drink",
+    "image": "ipfs://QmYSDQ1RrXUdJWvh65a8u3opscHaiF8SKTRCK1verWY5yG/4.png", 
+    "advertisment": "coldrink",
+    "style": "advertising",
+    "attributes": {
+      "color": "yellow",
+      "object": "bottle",
+      "location": "side wall"
+    },
+    "token_id": 4 
+  }
+  

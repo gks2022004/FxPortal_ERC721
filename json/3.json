@@ -1,0 +1,14 @@
+{
+    "name": "astronaut is riding a horse",
+    "description": "astronaut is riding a horse on the a planet where water is everywhere",
+    "image": "ipfs://QmYSDQ1RrXUdJWvh65a8u3opscHaiF8SKTRCK1verWY5yG/3.png", 
+    "atmosphere": "sunny",
+    "style": "cowboy vibes",
+    "attributes": {
+      "weather": "clear",
+      "object": "astronaut",
+      "location": "water planet"
+    },
+    "token_id": 3 
+  }
+  

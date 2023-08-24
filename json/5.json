@@ -1,0 +1,14 @@
+{
+    "name": "The cute bear",
+    "description": "The cute bear depicts the playful, lovable, furry",
+    "image": "ipfs://QmYSDQ1RrXUdJWvh65a8u3opscHaiF8SKTRCK1verWY5yG/5.png", 
+    "animal": "bear",
+    "style": "sitting",
+    "attributes": {
+      "color": "brown",
+      "object": "bear",
+      "location": "China"
+    },
+    "token_id": 5 
+  }
+  

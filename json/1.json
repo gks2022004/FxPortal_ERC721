@@ -1,0 +1,14 @@
+{
+    "name": "beautiful garden in front of house",
+    "description": "there's a beautiful garden in front of house",
+    "image": "ipfs://QmYSDQ1RrXUdJWvh65a8u3opscHaiF8SKTRCK1verWY5yG/1.png", 
+    "atmosphere": "clear",
+    "style": "Beauty",
+    "attributes": {
+      "weather": "sunny",
+      "object": "house",
+      "location": "Mussourie"
+    },
+    "token_id": 1 
+  }
+  
