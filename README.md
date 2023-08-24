@@ -1,10 +1,10 @@
 # NFT Bridge using FXPortal
 
-This project demonstrates the use of the FXPortal bridge to transfer ERC721 NFTs from the Ethereum Goerli testnet to the Polygon Mumbai testnet.
+This project showcases how the FXPortal bridge facilitates the seamless transfer of ERC721 NFTs from the Ethereum Goerli testnet to the Polygon Mumbai testnet.
 
 ## Overview
 
-This project includes a Solidity smart contract that mints ERC721 NFTs on the Ethereum Sepolia testnet. These NFTs are then transferred to the Polygon Mumbai testnet using the FXPortal bridge.
+In this project, there's a Solidity smart contract integrated to mint ERC721 NFTs on the Ethereum Sepolia testnet. Following their minting, these NFTs are subsequently transported to the Polygon Mumbai testnet using the FXPortal bridge.
 
 ## Usage
 
@@ -16,6 +16,8 @@ This project includes a Solidity smart contract that mints ERC721 NFTs on the Et
 6. You can then check the balance of the polygon contract to verify the transfer using the `getBalance.js` script.
 
 ## For Developers
+
+Include the json files of the NFTs, and upload the pictures for NFTs, on the pinata cloud.
 
 This is a Hardhat project with four scripts. To run a script, use the following command:
 
