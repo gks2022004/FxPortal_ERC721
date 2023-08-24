@@ -17,7 +17,7 @@ In this project, there's a Solidity smart contract integrated to mint ERC721 NFT
 
 ## For Developers
 
-Include the json files of the NFTs, and upload the pictures for NFTs, on the pinata cloud.
+Include the json files of the NFTs, and upload the pictures for NFTs on the pinata cloud.
 
 This is a Hardhat project with four scripts. To run a script, use the following command:
 
