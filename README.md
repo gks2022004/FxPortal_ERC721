@@ -28,4 +28,4 @@ npx hardhat run scripts/<scriptName> --network <networkName>
 ```
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](https://github.com/gks2022004/FxPortal_ERC721/blob/main/LICENSE).
