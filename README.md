@@ -15,6 +15,9 @@ In this project, there's a Solidity smart contract integrated to mint ERC721 NFT
 5. Transfer the NFTs to the Polygon Mumbai testnet using the FXPortal bridge using the `approveDeposit.js` script.
 6. You can then check the balance of the polygon contract to verify the transfer using the `getBalance.js` script.
 
+## Link for the deployed NFT collection 
+- [Here](https://testnets.opensea.io/collection/mynft-3883)
+  
 ## For Developers
 
 Include the json files of the NFTs, and upload the pictures for NFTs on the pinata cloud.
